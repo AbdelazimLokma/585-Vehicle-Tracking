@@ -7,7 +7,7 @@ unique IDs for multiple objects over time using multi-object tracking and data a
 ## Project Structure
 
  ├── A3.ipynb # Main notebook implementing tracking algorithms 
- ├── commonwealth.mp4 # Test video file 
+ ├── commonwealth.mp4 # Test video file
  ├── frame_dict.json # Bounding box data for frames 
  ├── obj_detections_test.json # Object detections with IDs over multiple frames 
  ├── object_to_track.json # Specific object tracking data 
