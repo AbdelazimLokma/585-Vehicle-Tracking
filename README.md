@@ -5,7 +5,7 @@ The main goal is to provide a smooth 2D track for detected objects using an Alph
 unique IDs for multiple objects over time using multi-object tracking and data association techniques.
 
 ## Project Structure
-
+```
  ├── A3.ipynb # Main notebook implementing tracking algorithms 
  ├── commonwealth.mp4 # Test video file
  ├── frame_dict.json # Bounding box data for frames 
@@ -15,7 +15,7 @@ unique IDs for multiple objects over time using multi-object tracking and data a
  ├── part_1_object_tracking.json # Tracking data for part 1 
  ├── part_2_demo.mp4 # Demo of part 2 for multi-object tracking 
  ├── part_2_frame_dict.json # Bounding box data for part 2
-
+```
 ## Objectives
 
 ### 1. **Single Object Tracking**
